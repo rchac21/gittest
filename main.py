@@ -4,3 +4,6 @@ print("Hello world323redqsqwfwedf!")
 
 print("sdhfkcjkjdk")
 print("hello")
+x = 5
+if x < 9:
+    print("ok")
